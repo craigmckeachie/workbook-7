@@ -52,4 +52,12 @@ from table
 - order by
 - nested queries
 
-- [Example SQL Coding Conventions](https://gist.github.com/mattmc3/38a85e6a4ca1093816c08d4815fbebfb)
+## SQL Coding Conventions/Style Guides
+
+- https://docs.telemetry.mozilla.org/concepts/sql_style
+- https://www.sqlstyle.guide/
+- https://gist.github.com/mattmc3/38a85e6a4ca1093816c08d4815fbebfb
+- https://www.reddit.com/r/SQL/comments/urkixb/sql_style_guide/
+- https://handbook.gitlab.com/handbook/enterprise-data/platform/sql-style-guide/
+- https://sqlfluff.com/
+- https://online.sqlfluff.com/
