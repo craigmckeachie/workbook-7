@@ -51,3 +51,5 @@ from table
     - apply some sort of aggregate function for each group
 - order by
 - nested queries
+
+- [Example SQL Coding Conventions](https://gist.github.com/mattmc3/38a85e6a4ca1093816c08d4815fbebfb)
