@@ -30,7 +30,16 @@ order by productname;
 
 -- 3. List the product id, product name, unit price, category name, and supplier
 -- name of every product. Order by product name.
-
+select
+	 productid,
+	 productname,
+	 unitprice,
+     categoryname,
+     companyname
+from products
+inner join categories on products.categoryid = categories.categoryid
+inner join suppliers on products.supplierid = suppliers.supplierid
+order by categoryname, productname;
 
 -- 4. What is the product name(s) and categories of the most expensive
 -- products? HINT: Find the max price in a subquery and then use that in
