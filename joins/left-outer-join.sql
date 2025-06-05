@@ -1,7 +1,7 @@
 use northwind;
 
 select 
-	customers.customerid, 
+    customers.customerid, 
     companyname,
     orderdate
 from customers
