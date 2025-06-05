@@ -52,6 +52,27 @@ from table
 - order by
 - nested queries
 
+- inner join
+- syntax
+  ```sql
+  from table1
+  inner join table2 on table1.column = table2.column
+  ```
+  - column will often be an `id` column
+  - the id column establishes a primary key/foreign key relationship between the two tables
+- we can use WHERE, ORDER BY, GROUP BY , and HAVING clauses with inner joins as well
+  - joins always come after from
+  ```sql
+    SELECT columns
+    FROM
+    JOIN
+    WHERE
+    GROUP BY
+    HAVING
+    ORDER BY
+  ```
+- inner join means putting data together from multiple tables based on common values in the tables (ONLY matched rows in both tables show in the results)
+
 ## SQL Coding Conventions/Style Guides
 
 - https://docs.telemetry.mozilla.org/concepts/sql_style
