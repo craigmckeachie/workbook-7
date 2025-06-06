@@ -5,7 +5,7 @@
    - Workbook 7 - Workshop - Dealership Database v2.1Y.pdf
    - [MySQL Foreign Keys](https://www.w3schools.com/mysql/mysql_foreignkey.asp)
    - Reference the `Northwind.MySQL8.sql` script to make the script re-run(able)
-   - (optional) Use this [git branch merge guide](./git-branch-merge.md) to create feature branches for each part of the workshop
+   - (optional) Use this [git branch merge guide](./git-branch-merge.md) to create feature branches for each part of the workshop and merge those back into main as you work
      - Example feature branch names
        - feature/create-database
        - feature/create-tables
