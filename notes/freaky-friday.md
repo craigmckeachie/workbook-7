@@ -2,11 +2,11 @@
 
 1. Car Dealership Workshop
 
-- Workbook 7 - Workshop - Dealership Database v2.1Y.pdf
-- [MySQL Foreign Keys](https://www.w3schools.com/mysql/mysql_foreignkey.asp)
-- Reference the `Northwind.MySQL8.sql script` to make the script re-run(able)
+   - Workbook 7 - Workshop - Dealership Database v2.1Y.pdf
+   - [MySQL Foreign Keys](https://www.w3schools.com/mysql/mysql_foreignkey.asp)
+   - Reference the `Northwind.MySQL8.sql script` to make the script re-run(able)
 
-1. SQL Games
+2. SQL Games
    - [SQL Murder Mystery](https://mystery.knightlab.com/)
    - [SQL Police Department](https://sqlpd.com/)
    - [SQL Island](https://sql-island.informatik.uni-kl.de/)
